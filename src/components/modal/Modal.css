@@ -130,6 +130,7 @@ select option {
 
 .schemaDropdown {
     margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .addNewSchema-btn {
